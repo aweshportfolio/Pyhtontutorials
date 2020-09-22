@@ -1,5 +1,5 @@
 # Pyhtontutorials
-Sprint-1
+## Sprint-1
 1. Print statement
 2. Print variable
 3. Print Data Type
