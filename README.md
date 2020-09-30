@@ -1,15 +1,13 @@
 # Pyhtontutorials
 ## Sprint-1
 1. Print statement
-2. Print variable
-3. Print Data Type
-4. Print Operators
-5. Python if elif else
-
-
-6. Python For loop
-7. Python while loop
-8.Python break,continue
+2. Pyhton Variables
+3. Pyhton DataTypes
+4. Pyhton Operators
+5. If else statements
+6. For loop
+7. While loop
+8. Break,Continue conditions  
 9. Set up the python environment
 10. install anaconda
 11. Add an item
